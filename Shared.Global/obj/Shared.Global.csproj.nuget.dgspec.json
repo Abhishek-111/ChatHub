@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\MVC\\ChatApplication\\Shared.Global\\Shared.Global.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\MVC\\ChatApplication\\Shared.Global\\Shared.Global.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\MVC\\ChatApplication\\Shared.Global\\Shared.Global.csproj",
+        "projectName": "Shared.Global",
+        "projectPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\MVC\\ChatApplication\\Shared.Global\\Shared.Global.csproj",
+        "packagesPath": "C:\\Users\\abhishekkumar26\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\MVC\\ChatApplication\\Shared.Global\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhishekkumar26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

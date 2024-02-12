@@ -1,0 +1,17 @@
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\Shared.Global.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\bin\Debug\net5.0\Shared.Global.pdb
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb

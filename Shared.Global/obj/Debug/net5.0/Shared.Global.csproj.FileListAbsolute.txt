@@ -1,0 +1,12 @@
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\bin\Debug\net5.0\Shared.Global.deps.json
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\bin\Debug\net5.0\Shared.Global.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\bin\Debug\net5.0\ref\Shared.Global.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\bin\Debug\net5.0\Shared.Global.pdb
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.csproj.AssemblyReference.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.AssemblyInfoInputs.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.AssemblyInfo.cs
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.csproj.CoreCompileInputs.cache
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\ref\Shared.Global.dll
+C:\Users\abhishekkumar26\OneDrive - Nagarro\Documents\MVC\ChatApplication\Shared.Global\obj\Debug\net5.0\Shared.Global.pdb
