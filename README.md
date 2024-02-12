@@ -1,2 +1,2 @@
 # ChatHub
-Realtime chatting Application
+Realtime chatting Application using SignlR in .NET Core
