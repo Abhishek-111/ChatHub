@@ -1,0 +1,14 @@
+.card-header{
+    background-color: lightgreen;
+}
+.body{
+    background-color: lightgray;
+    color: white;
+    overflow: hidden;
+    height: 530px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.date-div{
+    text-align: center;
+}

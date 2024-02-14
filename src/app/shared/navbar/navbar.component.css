@@ -1,0 +1,8 @@
+.navbar{
+    background-color: lightgreen;
+    font-size:medium
+}
+
+.logout{
+    cursor: pointer;
+}

@@ -1,0 +1,47 @@
+<div class="card mt-2">
+  <div class="card-header h3 text-center">{{userName}}</div>
+  <div #scrollDiv class="card-body body" (scroll)="onScroll()">
+    <div *ngFor="let dt of dates">
+      <p class="date-div">{{dt | date:'dd-MM-yyyy'}}</p>
+      <div class="card-text" *ngFor="let msg of previousChat">
+        <div class="d-flex flex-column" [ngClass]="msg.fromUserName==userName ? 'align-items-start':'align-items-end'">
+          <div class="card m-2" [ngClass]="msg.fromUserName==userName ? 'text-start':'text-end'" *ngIf="checkDate(dt,msg.timeStamp)">
+            <div class="card-body">
+              <h6 class="card-subtitle mb-2 text-body-secondary">{{msg.fromUserName}}</h6>
+              <p class="card-text">{{msg.content}}</p>
+              <p class="card-text">{{msg.timeStamp | date:'hh:mm:ss a':'+0530'}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card-text" *ngFor="let msg of chatService.privateMessages">
+      <div class="d-flex flex-column" [ngClass]="msg.from==userName ? 'align-items-start':'align-items-end'">
+        <!-- <span class="text-danger">{{msg.from}}: </span>
+          <span class="ml-1">{{msg.content}}</span> -->
+        <div class="card m-2" [ngClass]="msg.from==userName ? 'text-start':'text-end'">
+          <div class="card-body">
+            <h6 class="card-subtitle mb-2 text-body-secondary">{{msg.from}}</h6>
+            <p class="card-text">{{msg.content}}</p>
+            <p class="card-text">{{msg.timeStamp | date:'dd-MM-yyyy hh:mm:ss a':'+0530'}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <form action="">
+      <div class="row">
+        <div class="col-9">
+          <input type="text" class="form-control" name="message" [(ngModel)]="message" placeholder="Send Message">
+        </div>
+        <div class="col-3">
+          <div class="d-grid">
+            <button class="btn btn-primary" (click)="sendMessage()">Send</button>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

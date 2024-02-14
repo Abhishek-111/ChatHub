@@ -1,0 +1,20 @@
+<div class="row" style="min-height: 100vh;min-width: 100vw;">
+    <div class="col-lg-4 user-section">
+        <app-navbar></app-navbar>
+        <div class="mt-3">
+            <input type="text" class="search form-control" placeholder="&#xF002; Search user">
+        </div>
+        <div class="list-group mt-5 ms-3 me-3">
+            <span *ngFor="let user of userList">
+                <a class="list-group-item list-group-item-action" (click)="send(user.id)">{{user.name}}</a>
+            </span>
+        </div>
+
+    </div>
+    <div class="col-lg-8 chat-section" *ngIf="userId">
+        <app-chat-section [dates]="dates" [previousChat]="previousChat" [userName]="userName" [userId]="userId"></app-chat-section>
+    </div>
+    <div class="col-lg-8 preview border" *ngIf="!userId">
+        <div class="welcome"><b>Welcome to ChatHub. The Real time chatting platform</b></div>
+    </div>
+</div>

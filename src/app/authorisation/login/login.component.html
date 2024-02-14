@@ -1,0 +1,24 @@
+<div class="container bg-secondary">
+    <div class="text-center">
+        <h1>Welcome to <span class="text-info">ChatHub</span>
+        </h1>
+    </div>
+    <div class="d-flex justify-content-center mt-5">
+        <form [formGroup]="userForm" class="p-3 border">
+            <div class="mb-3">
+                <label for="name" class="form-label">Name <b class="text-danger">*</b></label>
+                <input type="text" class="form-control" formControlName="name" id="name" placeholder="Please enter your name">
+
+                <div *ngIf="userForm.get('name')?.errors !=null && userForm.get('name')?.dirty">
+                    <div class="text-danger" *ngIf="userForm.get('name')?.hasError('required')">This field is required
+                    </div>
+                </div>    
+
+            </div>
+
+            <div class="button-group">
+                <button type="submit" [disabled]="!userForm.valid" (click)="formSubmit()" class="btn btn-primary m-2">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
